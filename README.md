@@ -19,5 +19,5 @@ a given year
   3. Total expenditure of the shelter allocation should not exceed the government budget.
   4. The number of capacity should be non-negative.
  
-#### See Toronto Shelter Optimization Jupyter Notebook for detailed analysis.
-#### Data information mentioned above can be found in Info_overview table.
+#### See [Toronto Shelter Optimization](https://github.com/574567254/Toronto_Shelter_Optimization/blob/bf73450f7513c6e7295dc492d4aed868a7658bbc/Toronto_Shelter_Optimization.ipynb) Jupyter Notebook for detailed analysis.
+#### Data information mentioned above can be found in [Info_overview](https://github.com/574567254/Toronto_Shelter_Optimization/blob/bf73450f7513c6e7295dc492d4aed868a7658bbc/Info_overview.xlsx) table.
